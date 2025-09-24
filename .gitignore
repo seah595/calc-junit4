@@ -3,3 +3,10 @@ bin/
 target/
 .classpath
 .project
+.vscode/
+bin/
+target/
+.classpath
+.project
+# docs 폴더는 무시하지 않음
+!docs/
