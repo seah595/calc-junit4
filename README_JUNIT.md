@@ -15,4 +15,4 @@
 4.  VS Code 좌측의 '자바 테스트' 뷰에서 전체 테스트를 실행하거나, 각 테스트 메서드 옆의 'Run Test' 버튼을 클릭하여 테스트를 실행합니다.
 
 ## 테스트 결과
-![JUnit 테스트 결과 스크린샷](JUnit_Test_Result_Screenshot.png)
+![JUnit 테스트 결과 스크린샷](https://raw.githubusercontent.com/seah595/calc-junit4/main/docs/vscode-test-screenshot.png)
